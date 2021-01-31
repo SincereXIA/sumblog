@@ -1,2 +1,5 @@
 config.toml
 resources/_gen
+public
+.DS_Store
+*/.DS_Store
