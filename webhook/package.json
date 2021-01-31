@@ -1,0 +1,14 @@
+{
+  "name": "sumblog-webhook",
+  "version": "1.0.0",
+  "description": "github webhook for sumblog",
+  "main": "github_webhook.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sincerexia",
+  "license": "ISC",
+  "dependencies": {
+    "github-webhook-handler": "^1.0.0"
+  }
+}
